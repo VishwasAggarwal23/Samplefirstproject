@@ -1,0 +1,1 @@
+echo "This is first sample project on git"
